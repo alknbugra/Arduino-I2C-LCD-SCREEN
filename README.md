@@ -1,4 +1,3 @@
-# ---> Arduino-I2C-LCD-SCREEN
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
