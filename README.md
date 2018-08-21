@@ -9,13 +9,21 @@ void setup()
 {
 
   lcd.begin();
+  
   lcd.backlight();
+  
   lcd.clear();
+  
   lcd.setCursor(1,0);
+  
   lcd.print("GitHub");
+  
   lcd.setCursor(0,1);
+  
   lcd.print("Bugra Alkin");
+  
 }
+
 
 void loop()
 {
