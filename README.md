@@ -1,4 +1,4 @@
-![Devre](https://raw.githubusercontent.com/alknbugra/Arduino-I2C-LCD-SCREEN/map.jpg)
+![map](https://user-images.githubusercontent.com/29266933/44430997-25f80c00-a5a5-11e8-9aef-aa1ed0c943d6.jpg)
 
 #include <Wire.h> 
 
